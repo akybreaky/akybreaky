@@ -4,7 +4,7 @@ Hi there! I'm An-Khiem Le, a Computer Science Student at Concordia University wi
 
 ## 🌟 Introduction
 
-- 📫 How to reach me: [Email](ankhiemle02@gmail.com) or [LinkedIn](www.linkedin.com/in/an-khiem-le)
+- 📫 How to reach me: [Email](mailto:ankhiemle02@gmail.com) or [LinkedIn](https://www.linkedin.com/in/an-khiem-le/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a slight obssesion with coffee and matcha.
 
